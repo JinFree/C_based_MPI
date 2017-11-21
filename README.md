@@ -2,4 +2,4 @@
 
 Assignment of the Parallel Computing ( Graduate Lecture of Hanyang University )
 
-HW07 and Final Assignment can visualize using Paraviiew
+HW07 and Final Assignment can visualize using Paraview
